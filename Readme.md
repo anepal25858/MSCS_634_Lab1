@@ -1,3 +1,8 @@
+CSV File:
+Since the csv file was too big to commit to git, I have attached the link to the kaggle site:
+https://www.kaggle.com/datasets/open-powerlifting/powerlifting-database
+
+
 Lab Summary
 
 Purpose:
